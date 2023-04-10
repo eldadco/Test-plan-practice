@@ -13,7 +13,7 @@
     "chromedriver": "^77.0.0",
     "iso-country-codes": "0.0.5",
     "selenium": "^2.20.0",
-    "selenium-webdriver": "^4.0.0-alpha.5"
+    "selenium-webdriver": "^4.8.2"
   },
   "devDependencies": {},
   "description": ""
